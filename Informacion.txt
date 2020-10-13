@@ -1,0 +1,4 @@
+Artista favorito
+carrera
+edad
+comida fav
