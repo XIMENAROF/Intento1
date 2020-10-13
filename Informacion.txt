@@ -2,3 +2,5 @@ Artista favorito:santa lucia
 carrera:electrica
 edad:19
 comida fav:costillas bbq
+altura
+color favorito
