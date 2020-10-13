@@ -1,4 +1,4 @@
-Artista favorito
-carrera
-edad
-comida fav
+Artista favorito:santa lucia
+carrera:electrica
+edad:19
+comida fav:costillas bbq
